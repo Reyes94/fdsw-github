@@ -22,6 +22,19 @@ header p {
   text-align: justify;
 }
 
+#Acerca-de-mi h3 {
+  padding-bottom: 15px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  text-align: justify;
+  padding-bottom: 5px;
+}
+
 /* Experiencia profesional */
 
 #Experiencia .image-top {
