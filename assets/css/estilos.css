@@ -44,6 +44,15 @@ li {
   background-position: center;
 }
 
+#Experiencia {
+  background-color: #78b2da;
+  text-align: justify;
+}
+
+#Experiencia h5 {
+  text-align: center;
+}
+
 /* Contacto */
 
 #Contacto form label {
